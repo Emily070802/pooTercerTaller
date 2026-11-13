@@ -1,0 +1,4 @@
+[2026-11-13 10:44:56] Usuario inició sesión
+[2026-11-13 10:44:56] ERROR: la contraseña es incorrecta
+[2026-11-13 10:44:56] El usuario realizó una consulta
+[2026-11-13 10:44:56] ERROR: conexión interrumpida

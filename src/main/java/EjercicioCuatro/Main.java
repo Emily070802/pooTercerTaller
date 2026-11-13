@@ -15,7 +15,7 @@ public class Main {
         Dispositivo[] dispositivos = {
             new Smartphone("Iphone", "16 Pro Max", 3000000, 48),
             new Smartphone("Xiaomi", "Redmi Note 14", 1200000, 200),
-            new Camara("Samsung", "A56", 2000000, 50)
+            new Camara("Sony", "Zv-E10K", 2819900, 24)
         };
 
         int mayorResolucion = 0;
