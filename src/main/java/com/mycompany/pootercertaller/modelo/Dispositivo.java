@@ -8,6 +8,17 @@ package com.mycompany.pootercertaller.modelo;
  *
  * @author ASUS
  */
-public class Dispositivo {
-    
+public abstract class Dispositivo {
+
+    protected String marca;
+    protected String modelo;
+    protected double precio;
+
+    public Dispositivo(String marca, String modelo, double precio) {
+        this.marca = marca;
+        this.modelo = modelo;
+        this.precio = precio;
+    }
+
+    public abstract void describir();
 }

@@ -8,6 +8,14 @@ package com.mycompany.pootercertaller.Interfaces;
  *
  * @author ASUS
  */
-public class fotografiable {
-    
+
+public interface fotografiable {
+
+    void tomarFoto();
+
+    int getMegapixeles();
+
+    default String funcion() {
+        return "Fotografía";
+    }
 }
