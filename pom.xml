@@ -8,6 +8,13 @@
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <maven.compiler.release>26</maven.compiler.release>
-        <mainClass>com.mycompany.pootercertaller.EjercicioCuatro.Main</mainClass>
+       <mainClass>EjercicioCuatro.Main</mainClass>
         <exec.jvmArgs>-Dfile.encoding=UTF-8 -Dstdout.encoding=UTF-8 -Dstderr.encoding=UTF-8</exec.jvmArgs>    </properties>
+        <dependencies>
+    <dependency>
+        <groupId>org.json</groupId>
+        <artifactId>json</artifactId>
+        <version>20250517</version>
+    </dependency>
+</dependencies>
 </project>
