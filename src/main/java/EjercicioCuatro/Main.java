@@ -2,13 +2,7 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
  * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
  */
-package com.mycompany.pootercertaller.EjercicioCuatro;
-
-import com.mycompany.pootercertaller.modelo.Dispositivo;
-import com.mycompany.pootercertaller.modelo.Smartphone;
-import com.mycompany.pootercertaller.modelo.Camara;
-import com.mycompany.pootercertaller.Interfaces.Llamable;
-import com.mycompany.pootercertaller.Interfaces.fotografiable;
+package EjercicioCuatro;
 /**
  *
  * @author ASUS

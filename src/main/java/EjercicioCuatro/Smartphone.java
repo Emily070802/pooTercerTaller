@@ -2,15 +2,16 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
  * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
  */
-package com.mycompany.pootercertaller.modelo;
+package EjercicioCuatro;
 
 /**
  *
  * @author ASUS
  */
 
-import com.mycompany.pootercertaller.Interfaces.Llamable;
-import com.mycompany.pootercertaller.Interfaces.fotografiable;
+import EjercicioCuatro.Dispositivo;
+import EjercicioCuatro.Llamable;
+import EjercicioCuatro.fotografiable;
 
 public class Smartphone extends Dispositivo implements Llamable, fotografiable {
 
